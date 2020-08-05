@@ -33,12 +33,14 @@
     position: absolute;
     left: 30%;
     top: 40%;
+
     z-index: 1; 
 }
 .circle__bottom--right {
     position: absolute;
     right:30%;
     top: 40%;
+
     z-index: 1;
 }
 .rectangle__big {
@@ -64,12 +66,16 @@
 
     background-color:#00e1ff;
 }
+.circle:hover {
+    cursor: pointer;
+}
 .rectangle__big:hover {
     z-index: 4;
 
     background-color:rgb(0, 255, 136);
     
     transition: ease-in 0.4s;
+    cursor: pointer;
 }
 .circle__top--left:hover {
     z-index: 2;
