@@ -14,7 +14,7 @@
     height: 15%;
     border-radius:50%;
 
-    background-color: #ff0000;
+    background-color: #ed220b;
 }
 .circle__top--left {
     position: absolute;
@@ -52,7 +52,7 @@
     width: 20%;
     height: 20%;
 
-    background-color:#2500fa;
+    background-color:#00a1ff;;
 }
 .rectangle__small {
     position: absolute;
@@ -64,7 +64,7 @@
     width: 10%;
     height: 10%;
 
-    background-color:#ffa600;
+    background-color:#f8ba00;;
 }
 .circle:hover {
     cursor: pointer;
